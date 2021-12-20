@@ -1,0 +1,52 @@
+
+body {
+  font-family:"Tajawal", serif;
+width:100%
+
+}
+.page-content {
+
+  width: 100%;
+  
+}
+ul {
+	width:95%;
+  top: 0;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+  
+}
+
+li {
+  float: left;
+}
+
+li a {
+	display:inline-block;
+	margin: 0 80px;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 15px 17px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: white;
+}
+.selected {
+background-color: red;}
+
+.logo{
+	margin-top: 0px;
+  margin-bottom: -55px;
+top:right;
+width: 260px;
+height:2800px;	
+}
+
+
